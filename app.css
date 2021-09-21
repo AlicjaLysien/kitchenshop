@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+
+.h2 {
+    @apply text-gray-800 text-4xl text-center
+}
+.h3 {
+    @apply text-2xl text-blue-900 font-semibold
+}
+
+@tailwind utilities;
